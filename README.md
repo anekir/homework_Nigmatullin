@@ -2,6 +2,6 @@
 
 ## About me
 
-Hello everyone.
+Hello.
 
-My name is Aidar. I live in the city of Kazan. I am 22 years old. At the moment I work system administrator in Andersen company.
+My name is Aidar. I'm a system administration with 3 years of experience. My job was to support users, as well as organize the work of the network infrastructure.
